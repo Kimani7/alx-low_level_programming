@@ -1,5 +1,5 @@
 #include <stdio.h>
-/***
+/**
  * main - entry point
  * Description: 'a program that prints all numbers of base 16'
  * Return: always (0)
