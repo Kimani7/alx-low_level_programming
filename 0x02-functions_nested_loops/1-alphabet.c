@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - a programs that prints the alphabet using _putchar
+ * print_alphabet - a programs that prints the alphabet using _putchar
  * Return: a;ways (0)
  */
 
