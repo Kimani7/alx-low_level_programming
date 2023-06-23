@@ -2,11 +2,11 @@
 /**
  * _abs - computes the absolute value
  * of an interger
- * @int: input as an interger
+ * @i: input as an interger
  * Return: absolute value
  */
 
-int _abs(int)
+int _abs(int i)
 {
 	if (i >= 0)
 	{
