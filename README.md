@@ -1,1 +1,1 @@
-This repository contains all the tasks related to c programming
+This repo was updated and contains all c tasks in the ALX SE program
