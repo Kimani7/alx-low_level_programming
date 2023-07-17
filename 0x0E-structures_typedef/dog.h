@@ -1,5 +1,5 @@
 #ifndef _DOG_H_
-#define _DOG_H
+#define _DOG_H_
 /**
  * struct dog - provides info on a dog's x-tics
  * @name: first member
@@ -8,11 +8,10 @@
  *
  * Description: this struct takes the age, name and owner of a dog
  */
-struct dog 
+struct dog
 {
-	char* name;
+	char *name;
 	float age;
-	char* owner;
+	char *owner;
 };
-
 #endif
