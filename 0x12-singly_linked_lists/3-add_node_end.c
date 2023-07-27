@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include "lists.h"
 /**
- * add_note_end - a function that adds a node at the end of a list
+ * add_node_end - a function that adds a node at the end of a list
  * @head: pointer to the list
  *
  * @str: string
